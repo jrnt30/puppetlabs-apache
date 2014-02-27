@@ -1,6 +1,6 @@
 #apache
 
-[![Build Status](https://travis-ci.org/puppetlabs/puppetlabs-apache.png?branch=master)](https://travis-ci.org/puppetlabs/puppetlabs-apache)
+[![Build Status](https://travis-ci.org/jrnt30/puppetlabs-apache.png?branch=master)](https://travis-ci.org/jrnt30/puppetlabs-apache)
 
 ####Table of Contents
 
